@@ -1,0 +1,8 @@
+## Ignore CODESYS
+*.~u
+*.opt
+*.precompilecache
+*.backup
+*.bootinfo
+*.bootinfo_guids
+*.compileinfo
